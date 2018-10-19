@@ -1,0 +1,1 @@
+var stickerApp = angular.module('stickerApp', []);
