@@ -5,13 +5,13 @@ Simple sticker board application
 
 
 # Authors
-* **Ahmet Ilter** - *Initial work* - [milter08](https://github.com/milter08)
+* **Ahmet Ilter** - [milter08](https://github.com/milter08)
 
 
 
 # Build With
 
-Easily could've done with vanilla javascript
+Easily could've been done with vanilla javascript
 * OpenLayers - https://openlayers.org/en/latest/doc/
 
 * Jquery - https://api.jquery.com/
