@@ -5,7 +5,7 @@ Simple sticker board application
 
 
 # Authors
-* **Ahmet Ilter** - [milter08](https://github.com/milter08)
+* **Ahmet Ilter** - [ailter](https://github.com/ailter)
 
 
 
